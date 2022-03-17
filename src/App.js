@@ -1,6 +1,7 @@
 import "./App.css";
 import Deso from "deso-protocol";
-import { useState } from "react";
+import React, { useState }  from 'react';
+
 const deso = new Deso();
 
 function App() {
